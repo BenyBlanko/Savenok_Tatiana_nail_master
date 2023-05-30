@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #DDBEAA;
+}
+
+.bl{
+    border: 1px solid red;
+}
+
+.main-foto{
+    width: 641px;
+}
+
+h1{
+    width: 100%;
+    font-family: 'Jua', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 112px;
+    letter-spacing: -0.03em;
+}
+
+h3{
+    width: 100%;
+    font-family: 'Italianno';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 120px;
+    display: block;
+    margin-bottom: 50px;
+}
+
+
+
+/* Containers */
+.container{
+    width: 1420px;
+    background: #D9D9D9;
+    display: flex;
+    margin: auto;
+    padding: 20px 50px;
+    flex-wrap: wrap;
+}
+
+.block-1{
+    width: 1320px;
+    display: flex;
+    margin: 19px 0 0 0;
+    padding-bottom: 19px;
+    justify-content: space-between;
+}
+
+.c641{
+    width: 641px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.c300-2{
+    width: 300px;
+    height: 439px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.head-text{
+    width: 641px;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+
+
+/* Images blocks */
+
+.w300{
+    width: 300px;
+    height: 200px;
+    box-shadow: 15px 15px #5BA199;
+}
+.w300-2{
+    width: 300px;
+    height: 439px;
+    box-shadow: 15px 15px #5BA199;
+}
+
+.w600{
+    width: 641px;
+    height: 439px;
+    box-shadow: 15px 15px #5BA199;
+}
+
+
+
+
+/* Nails images */
+.pic-01{
+    background-image: url(../images/head-foto-01.jpg);
+}
+.pic-02{
+    background-image: url(../images/head-foto-02.jpg);
+}
+.f-01{
+    background-image: url(../images/f-01.jpg);
+}
+.f-02{
+    background-image: url(../images/f-02.jpg);
+}
+.f-03{
+    background-image: url(../images/f-03.jpg);
+}
+.f-04{
+    background-image: url(../images/f-04.jpg);
+}
+.f-05{
+    background-image: url(../images/f-05.jpg);
+}
+.f-06{
+    background-image: url(../images/f-06.jpg);
+}
+.f-07{
+    background-image: url(../images/f-07.jpg);
+}
+.f-08{
+    background-image: url(../images/f-08.jpg);
+}
+.f-09{
+    background-image: url(../images/f-09.jpg);
+}
+.f-10{
+    background-image: url(../images/f-10.jpg);
+}
+.f-11{
+    background-image: url(../images/f-11.jpg);
+}
+.f-12{
+    background-image: url(../images/f-12.jpg);
+}
+.f-13{
+    background-image: url(../images/f-13.jpg);
+}
+.f-14{
+    background-image: url(../images/f-14.jpg);
+}
+.f-15{
+    background-image: url(../images/f-15.jpg);
+}
+.f-16{
+    background-image: url(../images/f-16.jpg);
+}
+.f-17{
+    background-image: url(../images/f-17.jpg);
+}
+.f-18{
+    background-image: url(../images/f-18.jpg);
+}
+.f-19{
+    background-image: url(../images/f-19.jpg);
+}
+.f-20{
+    background-image: url(../images/f-20.jpg);
+}
+.f-21{
+    background-image: url(../images/f-21.jpg);
+}
+.f-22{
+    background-image: url(../images/f-22.jpg);
+}
+.f-23{
+    background-image: url(../images/f-23.jpg);
+}
